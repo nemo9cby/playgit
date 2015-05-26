@@ -1,6 +1,6 @@
-this is the second line I created in MacOS laptop.
+this is the first line I created in MacOS laptop. fuck
 
-following content is from Mac:
+following content is from Linux:
 {
     Fuck you!
     I am good!
